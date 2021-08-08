@@ -1,11 +1,11 @@
-### course-manager
+## course-manager
 
-*Um projeto usando framework Angular e seus recursos. Desenvolvido com TypeScript, Node, Angular e Bootstrap*
+*A project using Angular framework and its resources. Developed with Node, Angular, TypeScript and Bootstrap*
 
-
-
-##### Requisitos:
+##### Requirements:
 
 Nodejs 12.x
+
 Angular 8.x
+
 Bootstrap
