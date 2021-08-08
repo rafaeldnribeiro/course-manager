@@ -8,4 +8,4 @@ Nodejs 12.x
 
 Angular 8.x
 
-Bootstrap
+Bootstrap 4.x
