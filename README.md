@@ -9,3 +9,6 @@ Nodejs 12.x
 Angular 8.x
 
 Bootstrap 4.x
+
+![](./images-readme/home-page.png)
+
