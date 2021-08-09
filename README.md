@@ -12,3 +12,14 @@ Bootstrap 4.x
 
 ![](./images-readme/home-page.png)
 
+
+
+
+
+![](./images-readme/edit-page.png)
+
+
+
+
+
+![](./images-readme/404-page.png)
